@@ -1,5 +1,5 @@
 # MyCSDemos
-
+<pre>
 Sequences:
 
 1. ConsoleApp1
@@ -7,3 +7,7 @@ Sequences:
 3. InputTypeCasting
 4. AssignandLogicalOperatorExample
 5. StringExample
+
+
+
+</pre>
