@@ -24,9 +24,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switchProgram", "switchProg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foreachProgram", "foreachProgram\foreachProgram.csproj", "{66928283-F5EF-4D0C-AADF-B8BB6F9C0150}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExample", "ArrayExample\ArrayExample.csproj", "{05DE799C-FF4E-4583-93DF-AB1C94F6050F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayExample", "ArrayExample\ArrayExample.csproj", "{05DE799C-FF4E-4583-93DF-AB1C94F6050F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultidimensionalArrayExample", "MultidimensionalArrayExample\MultidimensionalArrayExample.csproj", "{B1FC299B-39F2-4186-B4B9-DF8A2D9CE667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultidimensionalArrayExample", "MultidimensionalArrayExample\MultidimensionalArrayExample.csproj", "{B1FC299B-39F2-4186-B4B9-DF8A2D9CE667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleClassObject", "SingleClassObject\SingleClassObject.csproj", "{1F8361C1-316E-4EC1-9540-B00A7492A1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassandObjectProgram", "ClassandObjectProgram\ClassandObjectProgram.csproj", "{6FD4D660-102F-43B7-A024-AA48E0075F37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +78,14 @@ Global
 		{B1FC299B-39F2-4186-B4B9-DF8A2D9CE667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1FC299B-39F2-4186-B4B9-DF8A2D9CE667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1FC299B-39F2-4186-B4B9-DF8A2D9CE667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8361C1-316E-4EC1-9540-B00A7492A1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8361C1-316E-4EC1-9540-B00A7492A1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8361C1-316E-4EC1-9540-B00A7492A1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8361C1-316E-4EC1-9540-B00A7492A1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD4D660-102F-43B7-A024-AA48E0075F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD4D660-102F-43B7-A024-AA48E0075F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD4D660-102F-43B7-A024-AA48E0075F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD4D660-102F-43B7-A024-AA48E0075F37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
