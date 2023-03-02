@@ -2,8 +2,8 @@
     class Empdata
     { 
    
-        public string Empname = "Siva";
-        public int EmpId = 3831;
+        private string Empname = "Siva";
+        private int EmpId = 3831;
         class Emp
         {
             static void Main(string[] args)
