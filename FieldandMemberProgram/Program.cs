@@ -2,10 +2,10 @@
 {
     class Laptop
     {
-        string Model;
-        string color;
+        string? Model;
+        string? color;
         int price;
-        
+     
         public void laptopfunction()
         {
             Console.WriteLine("Please show me a good choice:");
