@@ -42,7 +42,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionProgram", "Function
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionOverloading", "FunctionOverloading\FunctionOverloading.csproj", "{2FCF7AD9-8688-402D-AAEA-CAEC25DC5BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverridingExample", "MethodOverridingExample\MethodOverridingExample.csproj", "{3F313E24-7AF0-4260-AE4F-415F0D4A8908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverridingExample", "MethodOverridingExample\MethodOverridingExample.csproj", "{3F313E24-7AF0-4260-AE4F-415F0D4A8908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceExample", "InheritanceExample\InheritanceExample.csproj", "{E1C06110-308D-41EC-A3F7-94CD6ED48566}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -122,6 +124,10 @@ Global
 		{3F313E24-7AF0-4260-AE4F-415F0D4A8908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F313E24-7AF0-4260-AE4F-415F0D4A8908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F313E24-7AF0-4260-AE4F-415F0D4A8908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C06110-308D-41EC-A3F7-94CD6ED48566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C06110-308D-41EC-A3F7-94CD6ED48566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C06110-308D-41EC-A3F7-94CD6ED48566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C06110-308D-41EC-A3F7-94CD6ED48566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
