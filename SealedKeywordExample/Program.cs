@@ -1,9 +1,11 @@
 ﻿sealed public class Animal
 
-{
+{ 
+
     public void eat()
 
-    { Console.WriteLine("eating...");    }
+    { Console.WriteLine("eating..."); }
+
 }
 
 public class Dog : Animal
@@ -34,7 +36,8 @@ public class TestSealed
 
         an.eat();
 
+        //an.bark();
+
     }
 
 }
-
